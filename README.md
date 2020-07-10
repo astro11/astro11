@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm ASTRO 👋
 
 <!--
 **astro11/astro11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I'm currently working with JavaScript and a bit of Python
+- 🌱 I'm also currently learning how to build a [smart mirror](https://docs.magicmirror.builders/) with the [raspberry pi 4 (8GB, for now)](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/) ⚡
+- 📫 How to reach me: [Portfolio](https://www.aquilacodes.com) + [LinkedIn](https://www.linkedin.com/in/aquilastrother) + [Twitter @AquilaStrother](https://www.twitter.com/aquilastrother)
+- 😄 Pronouns: She/Her
