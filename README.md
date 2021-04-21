@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I'm currently working with JavaScript and a bit of Python
+- 🔭 I'm currently working with JavaScript
 - 🌱 I'm also currently learning how to build a [smart mirror](https://docs.magicmirror.builders/) with the [raspberry pi 4 (8GB, for now)](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/) ⚡
 - 📫 How to reach me: [Portfolio](https://www.aquilacodes.com) + [LinkedIn](https://www.linkedin.com/in/aquilastrother) + [Twitter @AquilaStrother](https://www.twitter.com/aquilastrother)
-- 😄 Pronouns: She/Her
+- 👉🏾 Pronouns: She/Her ✌🏾
